@@ -5,3 +5,21 @@ git config --global user.name "sateesh466"
 git config --global user.email "sateesh466@gmail.com"
 
 git clone https://github.com/sateesh466/CoreJava.git
+
+git --help
+ 
+git add Git.txt
+
+git commit -m "git commands"
+
+
+git branch
+
+git push origin main
+
+git pull origin main
+
+git fetch origin main
+
+git checkout BranchName
+
