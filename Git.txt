@@ -1,0 +1,7 @@
+git --version
+
+git config --global user.name "sateesh466"
+
+git config --global user.email "sateesh466@gmail.com"
+
+git clone https://github.com/sateesh466/CoreJava.git
