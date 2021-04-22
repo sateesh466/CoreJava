@@ -1,0 +1,25 @@
+Java Arrays:
+
+	An array is a collection of similar data types. Array is a container object that hold values of homogeneous type. 
+	It is also known as static data structure because size of an array must be specified at the time of its declaration.
+
+Array starts from zero index and goes to n-1 where n is length of the array.
+
+In Java, array is treated as an object and stores into heap memory. It allows to store primitive values or reference values.
+
+
+Features of Array
+It is always indexed. Index begins from 0.
+It is a collection of similar data types.
+It occupies a contiguous memory location.
+It allows to access elements randomly.
+
+
+Syntax :
+
+datatype[] arrayName;
+or
+datatype arrayName[];
+
+arrayName = new datatype[size]
+Datatype[] arrayName = new datatype[size]

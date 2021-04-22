@@ -1,0 +1,32 @@
+Loops:
+
+While loop
+Do While loop
+For loop
+
+
+
+For loop Syntax:
+
+for(initialization;condition;increment/decrement)
+{  
+	//statement 
+}
+
+
+
+While Loop Syntax:
+
+while(condition)
+{  
+//code for execution
+}
+
+
+Do While Loop Syntax:
+
+do
+{  
+//code for execution 
+}
+while(condition); 

@@ -1,0 +1,15 @@
+Methods	:
+
+Method describes behavior of an object. A method is a collection of statements that are grouped together to perform an operation.
+
+AccessModifer return-type methodName(parameter-list)
+{
+ //body of method
+}
+
+call-by-value and call-by-reference
+There are two ways to pass an argument to a method
+
+call-by-value : In this approach copy of an argument value is pass to a method. Changes made to the argument value inside the method will have no effect on the arguments.
+call-by-reference : In this reference of an argument is pass to a method. Any changes made inside the method will affect the agrument value.
+NOTE :However there is no concept of call-by-reference in Java. Java supports only call by value.

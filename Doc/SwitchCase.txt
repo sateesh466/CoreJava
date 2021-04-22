@@ -1,0 +1,28 @@
+Switch case:
+
+	The Java switch statement executes one statement from multiple conditions. 
+	It is like if-else-if ladder statement. 
+	The switch statement works with byte, short, int, long, enum types, String and some wrapper types like Byte, Short, Int, and Long. Since Java 7, 
+	you can use strings in the switch statement.
+	
+	
+	
+switch(expression)
+{    
+case value1:   
+ 			//code for execution;    
+ 			break;  //optional  
+case value2:    
+ // code for execution
+ break;  //optional  
+......    
+......
+......
+......
+Case value n:
+// code for execution
+ break;  //optional  
+
+default:     
+ code for execution when none of the case is true;    
+}   

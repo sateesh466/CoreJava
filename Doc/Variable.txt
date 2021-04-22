@@ -1,0 +1,44 @@
+Variable:
+
+When we want to store any information, we store it in an address of the computer. 
+Instead of remembering the complex address where we have stored our information, we name that address.The naming of an address is known as variable.
+Variable is the name of memory location.
+In other words, variable is a name which is used to store a value of any type during program execution
+
+Syntax:
+
+datatype variableName;	
+
+int a = 10;
+
+
+Three Types of variables:
+
+Local Variables
+Instance Variables
+Static variables
+
+class person{  
+
+int age = 50;//instance variable 
+ 
+static int m=100;//static variable  
+
+sysout("N"+n);
+
+void method(){  
+	int n=90;//local variable  
+}  
+}
+
+
+A obj1 = new A();
+A obj2 = new A();
+
+
+Variables naming convention in java
+1) Variables naming cannot contain white spaces, for example: int num ber = 100; is invalid because the variable name has space in it.
+2) Variable name can begin with special characters such as $ and _
+3) As per the java coding standards the variable name should begin with a lower case letter, for example int number; For lengthy variables names that has more than one words do it like this: int smallNumber; int bigNumber; (start the second word with capital letter).
+4) Variable names are case sensitive in Java
+

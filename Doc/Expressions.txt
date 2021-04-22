@@ -1,0 +1,71 @@
+Conditional Operator:
+
+If Block
+If Else Block
+Nested If Else Block
+Nested If Block
+
+
+
+Arthematic Operator:
+
+Operator	Description
+
++			adds two operands
+-		    subtract second operands from first
+*		    multiply two operand
+/	        divide numerator by denumerator
+%		    remainder of division
+++			Increment operator increases integer value by one
+--	        Decrement operator decreases integer value by one
+
+
+
+Relation operators:
+
+Operator	Description
+
+==			Check if two operand are equal
+!=			Check if two operand are not equal.
+>			Check if operand on the left is greater than operand on the right
+<			Check operand on the left is smaller than right operand
+>=			check left operand is greater than or equal to right operand
+<=			Check if operand on left is smaller than or equal to right operand
+
+
+Logical operators:
+
+Operator	Description	Example
+
+&&			Logical AND	(a && b) is false
+||			Logical OR	(a || b) is true
+!			Logical NOT	(!a) is false
+
+
+
+Assignment Operators :
+
+Operator	Description																						Example
+
+=			assigns values from right side operands to left side operand									a = b
++=			adds right operand to the left operand and assign the result to left							a+=b is same as a=a+b
+-=			subtracts right operand from the left operand and assign the result to left operand				a-=b is same as a=a-b
+*=			mutiply left operand with the right operand and assign the result to left operand				a*=b is same as a=a*b
+/=			divides left operand with the right operand and assign the result to left operand				a/=b is same as a=a/b
+%=			calculate modulus using two operands and assign the result to left operand						a%=b is same as a=a%b
+
+
+
+
+Conditional Or Tenarary operator :
+
+
+epr1 ? expr2 : expr3
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+Constructors:
+
+A constructor is a special method that is used to initialize an object. Every class has a constructor either implicitly or explicitly.
+
+purpose of creating constructor is to initialize states of an object
+
+Default Constructors
+Parameterized Constructors
+
+
+className (){
+  code-statements
+}
+
+
+className (parameter-list){
+  code-statements
+}

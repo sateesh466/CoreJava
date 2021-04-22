@@ -1,0 +1,11 @@
+KeyWords
+
+Break : break is a statement that is used to break current execution flow of the program
+
+
+Continue: 
+
+In Java, the continue statement is used to skip the current iteration of the loop. 
+It jumps to the next iteration of the loop immediately. We can use continue statement with for loop, while loop and do-while loop as well.
+
+

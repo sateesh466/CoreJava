@@ -1,0 +1,41 @@
+Data Types:
+
+Primitive Data type
+Non-Primitive Data type (Refrence Data Type)
+
+Integer group includes 
+
+byte : Range  -128 to 127
+short: -32768 to 32767 
+int: -2147483648 to 2147483647
+long : -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
+
+Default value is zero.
+
+Floating-Point Number group includes 
+
+float: Default value 0.0f. example: float ff=10.3f;
+double : Default value 0.0d. example: double db=11.123;
+
+
+Characters:
+
+char = 'a' :  0 to 65,535
+
+
+Boolean :
+
+boolean b=true;   True/False
+
+
+TypeCasting:
+
+Widening Casting(Implicit)
+	
+	byte ->short ->int->long->float->double
+
+Narrowing Casting(Explicitly done)
+
+	double->float->long->int->short->byte
+
+
