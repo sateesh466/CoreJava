@@ -21,16 +21,24 @@ public class OrderOfExecution {
 	OrderOfExecution() {
 		System.out.println("Inside Constructor of Class");
 	}
+	
+	void test(){
+		
+		System.out.println("Inside Test Method");
+	}
 
 	public static void main(String[] args) {
 
 		// Creating the Object of the Class
 		OrderOfExecution obj = new OrderOfExecution();
+		
+		obj.test();
 
 		System.out.println("*******************");
 
 		// Again Creating Object of Class
 		OrderOfExecution obj1 = new OrderOfExecution();
+		obj1.test();
 
 	}
 

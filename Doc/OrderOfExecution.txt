@@ -1,0 +1,7 @@
+Order of execution
+
+Different blocks and their order of execution in Java Class
+
+Static Block
+Init Block(Anonymous Block)
+Constructor

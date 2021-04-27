@@ -35,9 +35,7 @@ public class Sample {
 		
 	}
 	
-	private void sub() {
-		//System.out.println(a-b);
-	}
+	
 	
 	
 }
