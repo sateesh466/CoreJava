@@ -2,11 +2,17 @@ package com.demo;
 
 public class Demo {
 
-	int a = 10;
+	private int a = 10;
 
-	// default access modifier
-	void show() {
+	
+	private void show() {
 		System.out.println(a);
+	}
+	
+	  void callingShow() {
+		
+		System.out.println("Inside public method");
+		 show();
 	}
 
 }
